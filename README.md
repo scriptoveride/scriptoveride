@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @scriptoveride
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning C++ and python
+Hi, I’m @scriptoveride
+I’m interested in cyber security
+I’m currently learning C++ and python
+
+![profile](https://user-images.githubusercontent.com/83906674/131862345-628d0545-a3ea-4a4e-9f33-bb7c9c33d731.jpg)
 
 
 <!---
