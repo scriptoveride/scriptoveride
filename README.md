@@ -1,4 +1,4 @@
-Hi, I’m @scriptoveride. I’m interested in cyber security and i'm learning C++ and python
+Hi, I’m Kai (scriptoveride). I’m interested in cyber security and i'm learning C++ and python
 
 <!---
 scriptoveride/scriptoveride is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
